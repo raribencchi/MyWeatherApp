@@ -1,0 +1,21 @@
+
+
+body {
+    font-family: arial, sans-serif;
+}
+
+
+weatherapp {
+    
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 1px solid rgb(54, 40, 3);
+    border-radius: 10px;
+}
+
+h1 {
+
+    color:blueviolet
+}
+
